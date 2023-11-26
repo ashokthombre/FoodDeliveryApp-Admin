@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdminFoodOrderApp</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+
+    <string name="default_web_client_id">172941872177-vqta9o1kk283ksptnht79h5a6q1ck37l.apps.googleusercontent.com</string>
+
+</resources>
